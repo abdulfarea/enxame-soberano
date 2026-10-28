@@ -1,0 +1,70 @@
+# ============================================================
+# ESCUDO DO ENXAME — Abd-369 x Kimi (versao celular)
+# Um dominio por linha. Importe em:
+#   NextDNS  -> Seguranca/Privacidade -> Denylist -> colar tudo
+#   AdGuard  -> Filtros -> Lista personalizada
+#   Pi-hole  -> Adlists
+# Esta e a SEMENTE. O poder real vem das listas mantidas pela
+# comunidade mundial (ativar junto, instrucoes no guia):
+#   StevenBlack/hosts, phishing.army, DandelionSprout Anti-Malware,
+#   e a lista anti-phishing de cripto da MetaMask (eth-phishing-detect)
+# ============================================================
+adcolony.com
+adjust.com
+adnxs.com
+ads.linkedin.com
+ads.pinterest.com
+ads.twitter.com
+adservice.google.com
+adsrvr.org
+amazon-adsystem.com
+amplitude.com
+analytics.google.com
+analytics.tiktok.com
+analytics.twitter.com
+app-measurement.com
+appsflyer.com
+bat.bing.com
+bidswitch.net
+bluekai.com
+branch.io
+casalemedia.com
+chartbeat.com
+connect.facebook.net
+crashlytics.com
+crazyegg.com
+criteo.com
+criteo.net
+data.microsoft.com
+demdex.net
+doubleclick.net
+exelator.com
+facebook.net
+fullstory.com
+google-analytics.com
+googlesyndication.com
+googletagmanager.com
+hotjar.com
+imrworldwide.com
+krxd.net
+mixpanel.com
+moatads.com
+mobile.pipe.aria.microsoft.com
+mouseflow.com
+nr-data.net
+omtrdc.net
+openx.net
+optimizely.com
+outbrain.com
+pixel.tiktok.com
+popads.net
+propellerads.com
+pubmatic.com
+quantserve.com
+rubiconproject.com
+scorecardresearch.com
+segment.io
+serving-sys.com
+snap.licdn.com
+taboola.com
+telemetry.mozilla.org

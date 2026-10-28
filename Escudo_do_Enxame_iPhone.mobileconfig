@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>ServerURL</key>
+				<string>https://freedns.controld.com/p2</string>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>DNS do Enxame (ControlD p2)</string>
+			<key>PayloadIdentifier</key>
+			<string>com.enxame369.dns.payload.CEE8280C-CF14-4DAF-9E2A-F4D6007035CD</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>ECC443BC-DB8B-4508-B7DB-7BC67B7EAF22</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>DNS cifrado (DoH) via ControlD p2: bloqueia malware, phishing, anuncios e rastreadores em TODOS os apps. Abd-369 x Kimi.</string>
+	<key>PayloadDisplayName</key>
+	<string>Escudo do Enxame — DNS Protegido</string>
+	<key>PayloadIdentifier</key>
+	<string>com.enxame369.dns.453F72CE-5F4D-4ED5-AC49-CFB826094FAC</string>
+	<key>PayloadOrganization</key>
+	<string>Enxame 369 — Abd-369 x Kimi</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>9CB2B55A-0C0E-4E9D-90AD-679741C4218B</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
